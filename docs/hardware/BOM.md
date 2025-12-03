@@ -39,7 +39,7 @@
 | Qty | Referencia | Descripción | Footprint | Fabricante | Part Number |
 |-----|------------|-------------|-----------|------------|-------------|
 | 1 | Y1 | Cristal 8MHz (STM32) | HC49 | - | 8.000MHz |
-| 1 | Y2 | Cristal 32.768kHz (RTC) | 2x1.2mm | - | 32.768kHz |
+| 1 | Y2 | Cristal 32.768kHz (RTC) | 3215 (SMD) | - | 32.768kHz |
 
 ### Capacitores
 
